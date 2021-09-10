@@ -10,8 +10,8 @@
     "error-snackbar.js.map": "https://srtena.github.io/carto-for-react-uc5-sample-app/static/js/error-snackbar.c2aaabde.chunk.js.map",
     "google-map.js": "https://srtena.github.io/carto-for-react-uc5-sample-app/static/js/google-map.2417d5ea.chunk.js",
     "google-map.js.map": "https://srtena.github.io/carto-for-react-uc5-sample-app/static/js/google-map.2417d5ea.chunk.js.map",
-    "main.js": "https://srtena.github.io/carto-for-react-uc5-sample-app/static/js/main.d29ac23a.chunk.js",
-    "main.js.map": "https://srtena.github.io/carto-for-react-uc5-sample-app/static/js/main.d29ac23a.chunk.js.map",
+    "main.js": "https://srtena.github.io/carto-for-react-uc5-sample-app/static/js/main.939d82d6.chunk.js",
+    "main.js.map": "https://srtena.github.io/carto-for-react-uc5-sample-app/static/js/main.939d82d6.chunk.js.map",
     "map.js": "https://srtena.github.io/carto-for-react-uc5-sample-app/static/js/map.3c6c6418.chunk.js",
     "map.js.map": "https://srtena.github.io/carto-for-react-uc5-sample-app/static/js/map.3c6c6418.chunk.js.map",
     "map-container.js": "https://srtena.github.io/carto-for-react-uc5-sample-app/static/js/map-container.a6eaa72e.chunk.js",
@@ -51,6 +51,6 @@
   "entrypoints": [
     "static/js/runtime-main.95c859df.js",
     "static/js/10.ed00b314.chunk.js",
-    "static/js/main.d29ac23a.chunk.js"
+    "static/js/main.939d82d6.chunk.js"
   ]
 }
