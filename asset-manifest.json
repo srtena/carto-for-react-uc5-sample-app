@@ -10,8 +10,8 @@
     "error-snackbar.js.map": "/carto-for-react-uc5-sample-app/static/js/error-snackbar.c2aaabde.chunk.js.map",
     "google-map.js": "/carto-for-react-uc5-sample-app/static/js/google-map.2417d5ea.chunk.js",
     "google-map.js.map": "/carto-for-react-uc5-sample-app/static/js/google-map.2417d5ea.chunk.js.map",
-    "main.js": "/carto-for-react-uc5-sample-app/static/js/main.05d83983.chunk.js",
-    "main.js.map": "/carto-for-react-uc5-sample-app/static/js/main.05d83983.chunk.js.map",
+    "main.js": "/carto-for-react-uc5-sample-app/static/js/main.939d82d6.chunk.js",
+    "main.js.map": "/carto-for-react-uc5-sample-app/static/js/main.939d82d6.chunk.js.map",
     "map.js": "/carto-for-react-uc5-sample-app/static/js/map.3c6c6418.chunk.js",
     "map.js.map": "/carto-for-react-uc5-sample-app/static/js/map.3c6c6418.chunk.js.map",
     "map-container.js": "/carto-for-react-uc5-sample-app/static/js/map-container.a6eaa72e.chunk.js",
@@ -51,6 +51,6 @@
   "entrypoints": [
     "static/js/runtime-main.b620df42.js",
     "static/js/10.ed00b314.chunk.js",
-    "static/js/main.05d83983.chunk.js"
+    "static/js/main.939d82d6.chunk.js"
   ]
 }
