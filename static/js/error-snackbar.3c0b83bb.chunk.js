@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[3],{1162:function(e,t,r){"use strict";r.r(t),r.d(t,"default",(function(){return s}));var n=r(1073),c=r(1083),u=r(191),o=r(445),i=r(22);function s(){var e=Object(u.useDispatch)(),t=Object(u.useSelector)((function(e){return e.app.error}));return Object(i.jsx)(n.a,{open:!!t,autoHideDuration:6e3,onClose:function(){return e(Object(o.c)(null))},children:Object(i.jsx)(c.a,{severity:"error",children:t})})}}}]);
+//# sourceMappingURL=error-snackbar.3c0b83bb.chunk.js.map
