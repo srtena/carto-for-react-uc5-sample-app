@@ -11,10 +11,10 @@ const EnrichedStores = lazy(() => import('components/views/EnrichedStores.js'));
 // [hygen] Import views
 
 export const ROUTE_PATHS = {
-  LOGIN: '/login',
-  DEFAULT: '/',
-  NOT_FOUND: '404',
-  STORES: '/stores',
+  LOGIN: `${process.env.PUBLIC_URL}/login`,
+  DEFAULT: `${process.env.PUBLIC_URL}/`,
+  NOT_FOUND: `${process.env.PUBLIC_URL}/404`,
+  STORES: `${process.env.PUBLIC_URL}/stores`,
   ENRICHED_STORES: '/enriched',
   // [hygen] Add path routes
 };

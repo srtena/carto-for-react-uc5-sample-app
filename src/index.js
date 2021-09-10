@@ -23,7 +23,7 @@ setDefaultCredentials({ ...initialState.credentials });
 const AppProvider = (
   <OauthProvider>
     <Provider store={store}>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <App />
       </BrowserRouter>
     </Provider>
@@ -42,11 +42,13 @@ function OauthProvider({ children }) {
     alert('Need to define a clientId. Please check the file store/initalStateSlice.js');
   }
 
+  console.log(window.location.href)
+
   return (
     <Auth0Provider
       domain={domain}
       clientId={clientId}
-      redirectUri={window.location.origin}
+      redirectUri={window.location.href}
       scopes={scopes.join(' ')}
       audience={audience}
       cacheLocation='localstorage'
