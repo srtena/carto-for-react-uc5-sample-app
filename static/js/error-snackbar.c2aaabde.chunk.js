@@ -1,0 +1,2 @@
+(this["webpackJsonpcarto-for-react-uc5-sample-app"]=this["webpackJsonpcarto-for-react-uc5-sample-app"]||[]).push([[3],{1162:function(e,r,t){"use strict";t.r(r),t.d(r,"default",(function(){return s}));var c=t(1073),n=t(1083),a=t(191),o=t(445),u=t(22);function s(){var e=Object(a.useDispatch)(),r=Object(a.useSelector)((function(e){return e.app.error}));return Object(u.jsx)(c.a,{open:!!r,autoHideDuration:6e3,onClose:function(){return e(Object(o.c)(null))},children:Object(u.jsx)(n.a,{severity:"error",children:r})})}}}]);
+//# sourceMappingURL=error-snackbar.c2aaabde.chunk.js.map
