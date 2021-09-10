@@ -95,5 +95,6 @@
       "prettier --write",
       "git add"
     ]
-  }
+  },
+  "homepage": "https://srtena.github.io/carto-for-react-uc5-sample-app/"
 }
